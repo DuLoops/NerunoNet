@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4db7uVddeiNbehZcvlcCL7t376evqvB6XttYR2NnhFH3PCp3MG7on+U1ELh47494fyzo9O4GXF8gSRRRYvKqTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\BCIT\\4932 Digi Pro\\Neuro\\Neuro\\Neuro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
